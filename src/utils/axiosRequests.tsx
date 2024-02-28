@@ -1,7 +1,7 @@
 import { GridRowModel } from "@mui/x-data-grid";
 import Axios from "axios";
 
-const URL = "http://18.188.61.139/navi";
+const URL = "https://ec2.draigan.com/navi";
 
 export async function postNewUser(userName: string) {
   try {
