@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-username {
+  font-weight: bold;
+  color: #1976d2;
+  text-align: center;
+}
